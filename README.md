@@ -48,4 +48,4 @@ The required parameters are the input and the output. You may want to tune the t
 An example of command is:
 ```sh
 python3 image_to_gcode.py --input image.png --output graph.nc --threshold 100
-```
+```# iamge-to-gcode_python
